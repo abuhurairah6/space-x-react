@@ -1,0 +1,13 @@
+:root{
+	--trans-seconds: 1s;
+	--trans-scale: 1.1;
+}
+
+.c-hover{
+	transition: var(--trans-seconds);
+}
+
+.c-hover:hover{
+	transform: scaleX(var(--trans-scale)) scaleY(var(--trans-scale));
+	background-color: #90EE90;
+}

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/main.js"],{
 
-/***/ "./node_modules/@babel/runtime/helpers/arrayWithHoles.js?9599":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/arrayWithHoles.js ***!
-  \*******************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/arrayWithHoles.js?c135":
+/*!***************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/arrayWithHoles.js ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15,10 +15,10 @@ module.exports = _arrayWithHoles;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/arrayWithHoles.js?c135":
-/*!***************************************************************!*\
-  !*** ./node_modules/@babel/runtime/helpers/arrayWithHoles.js ***!
-  \***************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/arrayWithHoles.js?dbf3":
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/arrayWithHoles.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -49,10 +49,10 @@ module.exports = _assertThisInitialized;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/classCallCheck.js?2011":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
-  \*******************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/classCallCheck.js?6ae0":
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -83,14 +83,14 @@ module.exports = _classCallCheck;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/construct.js?38b8":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/construct.js ***!
-  \**************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/construct.js?b17c":
+/*!**********************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/construct.js ***!
+  \**********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf */ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?6275");
+var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf */ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?4a4b");
 
 function isNativeReflectConstruct() {
   if (typeof Reflect === "undefined" || !Reflect.construct) return false;
@@ -126,14 +126,14 @@ module.exports = _construct;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/construct.js?b17c":
-/*!**********************************************************!*\
-  !*** ./node_modules/@babel/runtime/helpers/construct.js ***!
-  \**********************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/construct.js?ec10":
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/construct.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf */ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?4a4b");
+var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf */ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?1ed3");
 
 function isNativeReflectConstruct() {
   if (typeof Reflect === "undefined" || !Reflect.construct) return false;
@@ -196,10 +196,10 @@ module.exports = _createClass;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/createClass.js?b238":
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/createClass.js ***!
-  \****************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/createClass.js?ac7f":
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/createClass.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -315,10 +315,10 @@ module.exports = _interopRequireDefault;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js?f262":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \**************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js?7b6a":
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -332,14 +332,14 @@ module.exports = _interopRequireDefault;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/interopRequireWildcard.js?5d99":
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/interopRequireWildcard.js ***!
-  \***************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/interopRequireWildcard.js?298d":
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/interopRequireWildcard.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var _typeof = __webpack_require__(/*! ../helpers/typeof */ "./node_modules/@babel/runtime/helpers/typeof.js?943f");
+var _typeof = __webpack_require__(/*! ../helpers/typeof */ "./node_modules/@babel/runtime/helpers/typeof.js?b1aa");
 
 function _getRequireWildcardCache() {
   if (typeof WeakMap !== "function") return null;
@@ -462,10 +462,10 @@ module.exports = _interopRequireWildcard;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js?60d3":
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js ***!
-  \*************************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js?8015":
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -544,10 +544,10 @@ module.exports = _iterableToArrayLimit;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/nonIterableRest.js?4be5":
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/nonIterableRest.js ***!
-  \********************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/nonIterableRest.js?635e":
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/nonIterableRest.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -597,10 +597,10 @@ module.exports = _possibleConstructorReturn;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?4a4b":
-/*!***************************************************************!*\
-  !*** ./node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
-  \***************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?1ed3":
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -617,10 +617,10 @@ module.exports = _setPrototypeOf;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?6275":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
-  \*******************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/setPrototypeOf.js?4a4b":
+/*!***************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -658,18 +658,18 @@ module.exports = _slicedToArray;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/slicedToArray.js?61a1":
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/slicedToArray.js ***!
-  \******************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/slicedToArray.js?deb5":
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/slicedToArray.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayWithHoles = __webpack_require__(/*! ./arrayWithHoles */ "./node_modules/@babel/runtime/helpers/arrayWithHoles.js?9599");
+var arrayWithHoles = __webpack_require__(/*! ./arrayWithHoles */ "./node_modules/@babel/runtime/helpers/arrayWithHoles.js?dbf3");
 
-var iterableToArrayLimit = __webpack_require__(/*! ./iterableToArrayLimit */ "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js?60d3");
+var iterableToArrayLimit = __webpack_require__(/*! ./iterableToArrayLimit */ "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js?8015");
 
-var nonIterableRest = __webpack_require__(/*! ./nonIterableRest */ "./node_modules/@babel/runtime/helpers/nonIterableRest.js?4be5");
+var nonIterableRest = __webpack_require__(/*! ./nonIterableRest */ "./node_modules/@babel/runtime/helpers/nonIterableRest.js?635e");
 
 function _slicedToArray(arr, i) {
   return arrayWithHoles(arr) || iterableToArrayLimit(arr, i) || nonIterableRest();
@@ -706,10 +706,10 @@ module.exports = _typeof;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/helpers/typeof.js?943f":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/typeof.js ***!
-  \***********************************************************************************************/
+/***/ "./node_modules/@babel/runtime/helpers/typeof.js?b1aa":
+/*!********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/typeof.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -733,14 +733,14 @@ module.exports = _typeof;
 
 /***/ }),
 
-/***/ "./node_modules/@babel/runtime/regenerator/index.js?40ce":
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/regenerator/index.js ***!
-  \**************************************************************************************************/
+/***/ "./node_modules/@babel/runtime/regenerator/index.js?50e3":
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/regenerator/index.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! regenerator-runtime */ "./node_modules/regenerator-runtime/runtime.js?3f7c");
+module.exports = __webpack_require__(/*! regenerator-runtime */ "./node_modules/regenerator-runtime/runtime.js?fc79");
 
 
 /***/ }),
@@ -769,9 +769,9 @@ Promise.prototype.finally=function(n){if("function"!=typeof n)return this.then(n
 /***/ }),
 
 /***/ "./node_modules/native-url/dist/index.js":
-/*!***************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/native-url/dist/index.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/native-url/dist/index.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -782,9 +782,9 @@ var e,t=(e=__webpack_require__(/*! querystring */ "./node_modules/querystring-es
 /***/ }),
 
 /***/ "./node_modules/next/dist/build/polyfills/fetch/index.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/build/polyfills/fetch/index.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/build/polyfills/fetch/index.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1261,7 +1261,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\Abu Salleh\\desktop\\space-x-react\\.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\.next");
       return error;
     }
   };
@@ -2565,7 +2565,7 @@ var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/inte
 exports.__esModule = true;
 exports["default"] = void 0;
 
-var _router = _interopRequireDefault(__webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js?ff98"));
+var _router = _interopRequireDefault(__webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js?8892"));
 
 var _onDemandEntriesUtils = __webpack_require__(/*! ./on-demand-entries-utils */ "./node_modules/next/dist/client/dev/on-demand-entries-utils.js");
 
@@ -2701,7 +2701,7 @@ var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/inte
 exports.__esModule = true;
 exports["default"] = initializeBuildWatcher;
 
-var _router = _interopRequireDefault(__webpack_require__(/*! ../router */ "./node_modules/next/dist/client/router.js?d4b9"));
+var _router = _interopRequireDefault(__webpack_require__(/*! ../router */ "./node_modules/next/dist/client/router.js?d3ea"));
 
 function initializeBuildWatcher() {
   var shadowHost = document.createElement('div');
@@ -3038,23 +3038,23 @@ var _reactDom = _interopRequireDefault(__webpack_require__(/*! react-dom */ "./n
 
 var _headManager = _interopRequireDefault(__webpack_require__(/*! ./head-manager */ "./node_modules/next/dist/client/head-manager.js"));
 
-var _router = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js?ff98");
+var _router = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js?8892");
 
-var _mitt = _interopRequireDefault(__webpack_require__(/*! ../next-server/lib/mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?e267"));
+var _mitt = _interopRequireDefault(__webpack_require__(/*! ../next-server/lib/mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?3caf"));
 
-var _utils = __webpack_require__(/*! ../next-server/lib/utils */ "./node_modules/next/dist/next-server/lib/utils.js?68cd");
+var _utils = __webpack_require__(/*! ../next-server/lib/utils */ "./node_modules/next/dist/next-server/lib/utils.js?8340");
 
 var _pageLoader = _interopRequireDefault(__webpack_require__(/*! ./page-loader */ "./node_modules/next/dist/client/page-loader.js"));
 
 var envConfig = _interopRequireWildcard3(__webpack_require__(/*! ../next-server/lib/runtime-config */ "./node_modules/next/dist/next-server/lib/runtime-config.js"));
 
-var _headManagerContext = __webpack_require__(/*! ../next-server/lib/head-manager-context */ "./node_modules/next/dist/next-server/lib/head-manager-context.js?2f39");
+var _headManagerContext = __webpack_require__(/*! ../next-server/lib/head-manager-context */ "./node_modules/next/dist/next-server/lib/head-manager-context.js?0848");
 
-var _routerContext = __webpack_require__(/*! ../next-server/lib/router-context */ "./node_modules/next/dist/next-server/lib/router-context.js?f44c");
+var _routerContext = __webpack_require__(/*! ../next-server/lib/router-context */ "./node_modules/next/dist/next-server/lib/router-context.js?b202");
 
 var _querystring = __webpack_require__(/*! querystring */ "./node_modules/querystring-es3/index.js");
 
-var _isDynamic = __webpack_require__(/*! ../next-server/lib/router/utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?043f");
+var _isDynamic = __webpack_require__(/*! ../next-server/lib/router/utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?1772");
 
 var _performanceRelayer = __webpack_require__(/*! ./performance-relayer */ "./node_modules/next/dist/client/performance-relayer.js");
 /* global location */
@@ -3752,13 +3752,13 @@ exports["default"] = void 0;
 
 var _url = __webpack_require__(/*! url */ "./node_modules/native-url/dist/index.js");
 
-var _mitt = _interopRequireDefault(__webpack_require__(/*! ../next-server/lib/mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?e267"));
+var _mitt = _interopRequireDefault(__webpack_require__(/*! ../next-server/lib/mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?3caf"));
 
-var _isDynamic = __webpack_require__(/*! ./../next-server/lib/router/utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?043f");
+var _isDynamic = __webpack_require__(/*! ./../next-server/lib/router/utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?1772");
 
-var _routeMatcher = __webpack_require__(/*! ./../next-server/lib/router/utils/route-matcher */ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?b643");
+var _routeMatcher = __webpack_require__(/*! ./../next-server/lib/router/utils/route-matcher */ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?f418");
 
-var _routeRegex = __webpack_require__(/*! ./../next-server/lib/router/utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?8c9a");
+var _routeRegex = __webpack_require__(/*! ./../next-server/lib/router/utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?633e");
 
 function hasRel(rel, link) {
   try {
@@ -4207,7 +4207,188 @@ function observePaint(onPerfEntry) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/client/router.js?d4b9":
+/***/ "./node_modules/next/dist/client/router.js?8892":
+/*!**************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/client/router.js ***!
+  \**************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _construct = __webpack_require__(/*! @babel/runtime/helpers/construct */ "./node_modules/@babel/runtime/helpers/construct.js?ec10");
+
+function _createForOfIteratorHelper(o) { if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) { if (Array.isArray(o) || (o = _unsupportedIterableToArray(o))) { var i = 0; var F = function F() {}; return { s: F, n: function n() { if (i >= o.length) return { done: true }; return { done: false, value: o[i++] }; }, e: function e(_e) { throw _e; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var it, normalCompletion = true, didErr = false, err; return { s: function s() { it = o[Symbol.iterator](); }, n: function n() { var step = it.next(); normalCompletion = step.done; return step; }, e: function e(_e2) { didErr = true; err = _e2; }, f: function f() { try { if (!normalCompletion && it["return"] != null) it["return"](); } finally { if (didErr) throw err; } } }; }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(n); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+var _interopRequireWildcard = __webpack_require__(/*! @babel/runtime/helpers/interopRequireWildcard */ "./node_modules/@babel/runtime/helpers/interopRequireWildcard.js?298d");
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js?7b6a");
+
+exports.__esModule = true;
+exports.useRouter = useRouter;
+exports.makePublicRouterInstance = makePublicRouterInstance;
+exports.createRouter = exports.withRouter = exports["default"] = void 0;
+
+var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+
+var _router2 = _interopRequireWildcard(__webpack_require__(/*! ../next-server/lib/router/router */ "./node_modules/next/dist/next-server/lib/router/router.js?7c87"));
+
+exports.Router = _router2["default"];
+exports.NextRouter = _router2.NextRouter;
+
+var _routerContext = __webpack_require__(/*! ../next-server/lib/router-context */ "./node_modules/next/dist/next-server/lib/router-context.js?994d");
+
+var _withRouter = _interopRequireDefault(__webpack_require__(/*! ./with-router */ "./node_modules/next/dist/client/with-router.js?d856"));
+
+exports.withRouter = _withRouter["default"];
+/* global window */
+
+var singletonRouter = {
+  router: null,
+  // holds the actual router instance
+  readyCallbacks: [],
+  ready: function ready(cb) {
+    if (this.router) return cb();
+
+    if (true) {
+      this.readyCallbacks.push(cb);
+    }
+  }
+}; // Create public properties and methods of the router in the singletonRouter
+
+var urlPropertyFields = ['pathname', 'route', 'query', 'asPath', 'components', 'isFallback'];
+var routerEvents = ['routeChangeStart', 'beforeHistoryChange', 'routeChangeComplete', 'routeChangeError', 'hashChangeStart', 'hashChangeComplete'];
+var coreMethodFields = ['push', 'replace', 'reload', 'back', 'prefetch', 'beforePopState']; // Events is a static property on the router, the router doesn't have to be initialized to use it
+
+Object.defineProperty(singletonRouter, 'events', {
+  get: function get() {
+    return _router2["default"].events;
+  }
+});
+urlPropertyFields.forEach(function (field) {
+  // Here we need to use Object.defineProperty because, we need to return
+  // the property assigned to the actual router
+  // The value might get changed as we change routes and this is the
+  // proper way to access it
+  Object.defineProperty(singletonRouter, field, {
+    get: function get() {
+      var router = getRouter();
+      return router[field];
+    }
+  });
+});
+coreMethodFields.forEach(function (field) {
+  // We don't really know the types here, so we add them later instead
+  ;
+
+  singletonRouter[field] = function () {
+    var router = getRouter();
+    return router[field].apply(router, arguments);
+  };
+});
+routerEvents.forEach(function (event) {
+  singletonRouter.ready(function () {
+    _router2["default"].events.on(event, function () {
+      var eventField = "on" + event.charAt(0).toUpperCase() + event.substring(1);
+      var _singletonRouter = singletonRouter;
+
+      if (_singletonRouter[eventField]) {
+        try {
+          _singletonRouter[eventField].apply(_singletonRouter, arguments);
+        } catch (err) {
+          // tslint:disable-next-line:no-console
+          console.error("Error when running the Router event: " + eventField); // tslint:disable-next-line:no-console
+
+          console.error(err.message + "\n" + err.stack);
+        }
+      }
+    });
+  });
+});
+
+function getRouter() {
+  if (!singletonRouter.router) {
+    var message = 'No router instance found.\n' + 'You should only use "next/router" inside the client side of your app.\n';
+    throw new Error(message);
+  }
+
+  return singletonRouter.router;
+} // Export the singletonRouter and this is the public API.
+
+
+var _default = singletonRouter; // Reexport the withRoute HOC
+
+exports["default"] = _default;
+
+function useRouter() {
+  return _react["default"].useContext(_routerContext.RouterContext);
+} // INTERNAL APIS
+// -------------
+// (do not use following exports inside the app)
+// Create a router and assign it as the singleton instance.
+// This is used in client side when we are initilizing the app.
+// This should **not** use inside the server.
+
+
+var createRouter = function createRouter() {
+  for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+    args[_key] = arguments[_key];
+  }
+
+  singletonRouter.router = _construct(_router2["default"], args);
+  singletonRouter.readyCallbacks.forEach(function (cb) {
+    return cb();
+  });
+  singletonRouter.readyCallbacks = [];
+  return singletonRouter.router;
+}; // This function is used to create the `withRouter` router instance
+
+
+exports.createRouter = createRouter;
+
+function makePublicRouterInstance(router) {
+  var _router = router;
+  var instance = {};
+
+  var _iterator = _createForOfIteratorHelper(urlPropertyFields),
+      _step;
+
+  try {
+    for (_iterator.s(); !(_step = _iterator.n()).done;) {
+      var property = _step.value;
+
+      if (typeof _router[property] === 'object') {
+        instance[property] = Object.assign({}, _router[property]); // makes sure query is not stateful
+
+        continue;
+      }
+
+      instance[property] = _router[property];
+    } // Events is a static property on the router, the router doesn't have to be initialized to use it
+
+  } catch (err) {
+    _iterator.e(err);
+  } finally {
+    _iterator.f();
+  }
+
+  instance.events = _router2["default"].events;
+  coreMethodFields.forEach(function (field) {
+    instance[field] = function () {
+      return _router[field].apply(_router, arguments);
+    };
+  });
+  return instance;
+}
+
+/***/ }),
+
+/***/ "./node_modules/next/dist/client/router.js?d3ea":
 /*!*************************************************!*\
   !*** ./node_modules/next/dist/client/router.js ***!
   \*************************************************/
@@ -4236,14 +4417,14 @@ exports.createRouter = exports.withRouter = exports["default"] = void 0;
 
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 
-var _router2 = _interopRequireWildcard(__webpack_require__(/*! ../next-server/lib/router/router */ "./node_modules/next/dist/next-server/lib/router/router.js?eab8"));
+var _router2 = _interopRequireWildcard(__webpack_require__(/*! ../next-server/lib/router/router */ "./node_modules/next/dist/next-server/lib/router/router.js?f14e"));
 
 exports.Router = _router2["default"];
 exports.NextRouter = _router2.NextRouter;
 
-var _routerContext = __webpack_require__(/*! ../next-server/lib/router-context */ "./node_modules/next/dist/next-server/lib/router-context.js?f44c");
+var _routerContext = __webpack_require__(/*! ../next-server/lib/router-context */ "./node_modules/next/dist/next-server/lib/router-context.js?b202");
 
-var _withRouter = _interopRequireDefault(__webpack_require__(/*! ./with-router */ "./node_modules/next/dist/client/with-router.js?7111"));
+var _withRouter = _interopRequireDefault(__webpack_require__(/*! ./with-router */ "./node_modules/next/dist/client/with-router.js?44db"));
 
 exports.withRouter = _withRouter["default"];
 /* global window */
@@ -4388,228 +4569,7 @@ function makePublicRouterInstance(router) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/client/router.js?ff98":
-/*!*****************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/client/router.js ***!
-  \*****************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _construct = __webpack_require__(/*! @babel/runtime/helpers/construct */ "./node_modules/@babel/runtime/helpers/construct.js?38b8");
-
-function _createForOfIteratorHelper(o) { if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) { if (Array.isArray(o) || (o = _unsupportedIterableToArray(o))) { var i = 0; var F = function F() {}; return { s: F, n: function n() { if (i >= o.length) return { done: true }; return { done: false, value: o[i++] }; }, e: function e(_e) { throw _e; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var it, normalCompletion = true, didErr = false, err; return { s: function s() { it = o[Symbol.iterator](); }, n: function n() { var step = it.next(); normalCompletion = step.done; return step; }, e: function e(_e2) { didErr = true; err = _e2; }, f: function f() { try { if (!normalCompletion && it["return"] != null) it["return"](); } finally { if (didErr) throw err; } } }; }
-
-function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(n); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
-
-function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
-
-var _interopRequireWildcard = __webpack_require__(/*! @babel/runtime/helpers/interopRequireWildcard */ "./node_modules/@babel/runtime/helpers/interopRequireWildcard.js?5d99");
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js?f262");
-
-exports.__esModule = true;
-exports.useRouter = useRouter;
-exports.makePublicRouterInstance = makePublicRouterInstance;
-exports.createRouter = exports.withRouter = exports["default"] = void 0;
-
-var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
-
-var _router2 = _interopRequireWildcard(__webpack_require__(/*! ../next-server/lib/router/router */ "./node_modules/next/dist/next-server/lib/router/router.js?e3ae"));
-
-exports.Router = _router2["default"];
-exports.NextRouter = _router2.NextRouter;
-
-var _routerContext = __webpack_require__(/*! ../next-server/lib/router-context */ "./node_modules/next/dist/next-server/lib/router-context.js?688f");
-
-var _withRouter = _interopRequireDefault(__webpack_require__(/*! ./with-router */ "./node_modules/next/dist/client/with-router.js?64e2"));
-
-exports.withRouter = _withRouter["default"];
-/* global window */
-
-var singletonRouter = {
-  router: null,
-  // holds the actual router instance
-  readyCallbacks: [],
-  ready: function ready(cb) {
-    if (this.router) return cb();
-
-    if (true) {
-      this.readyCallbacks.push(cb);
-    }
-  }
-}; // Create public properties and methods of the router in the singletonRouter
-
-var urlPropertyFields = ['pathname', 'route', 'query', 'asPath', 'components', 'isFallback'];
-var routerEvents = ['routeChangeStart', 'beforeHistoryChange', 'routeChangeComplete', 'routeChangeError', 'hashChangeStart', 'hashChangeComplete'];
-var coreMethodFields = ['push', 'replace', 'reload', 'back', 'prefetch', 'beforePopState']; // Events is a static property on the router, the router doesn't have to be initialized to use it
-
-Object.defineProperty(singletonRouter, 'events', {
-  get: function get() {
-    return _router2["default"].events;
-  }
-});
-urlPropertyFields.forEach(function (field) {
-  // Here we need to use Object.defineProperty because, we need to return
-  // the property assigned to the actual router
-  // The value might get changed as we change routes and this is the
-  // proper way to access it
-  Object.defineProperty(singletonRouter, field, {
-    get: function get() {
-      var router = getRouter();
-      return router[field];
-    }
-  });
-});
-coreMethodFields.forEach(function (field) {
-  // We don't really know the types here, so we add them later instead
-  ;
-
-  singletonRouter[field] = function () {
-    var router = getRouter();
-    return router[field].apply(router, arguments);
-  };
-});
-routerEvents.forEach(function (event) {
-  singletonRouter.ready(function () {
-    _router2["default"].events.on(event, function () {
-      var eventField = "on" + event.charAt(0).toUpperCase() + event.substring(1);
-      var _singletonRouter = singletonRouter;
-
-      if (_singletonRouter[eventField]) {
-        try {
-          _singletonRouter[eventField].apply(_singletonRouter, arguments);
-        } catch (err) {
-          // tslint:disable-next-line:no-console
-          console.error("Error when running the Router event: " + eventField); // tslint:disable-next-line:no-console
-
-          console.error(err.message + "\n" + err.stack);
-        }
-      }
-    });
-  });
-});
-
-function getRouter() {
-  if (!singletonRouter.router) {
-    var message = 'No router instance found.\n' + 'You should only use "next/router" inside the client side of your app.\n';
-    throw new Error(message);
-  }
-
-  return singletonRouter.router;
-} // Export the singletonRouter and this is the public API.
-
-
-var _default = singletonRouter; // Reexport the withRoute HOC
-
-exports["default"] = _default;
-
-function useRouter() {
-  return _react["default"].useContext(_routerContext.RouterContext);
-} // INTERNAL APIS
-// -------------
-// (do not use following exports inside the app)
-// Create a router and assign it as the singleton instance.
-// This is used in client side when we are initilizing the app.
-// This should **not** use inside the server.
-
-
-var createRouter = function createRouter() {
-  for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
-    args[_key] = arguments[_key];
-  }
-
-  singletonRouter.router = _construct(_router2["default"], args);
-  singletonRouter.readyCallbacks.forEach(function (cb) {
-    return cb();
-  });
-  singletonRouter.readyCallbacks = [];
-  return singletonRouter.router;
-}; // This function is used to create the `withRouter` router instance
-
-
-exports.createRouter = createRouter;
-
-function makePublicRouterInstance(router) {
-  var _router = router;
-  var instance = {};
-
-  var _iterator = _createForOfIteratorHelper(urlPropertyFields),
-      _step;
-
-  try {
-    for (_iterator.s(); !(_step = _iterator.n()).done;) {
-      var property = _step.value;
-
-      if (typeof _router[property] === 'object') {
-        instance[property] = Object.assign({}, _router[property]); // makes sure query is not stateful
-
-        continue;
-      }
-
-      instance[property] = _router[property];
-    } // Events is a static property on the router, the router doesn't have to be initialized to use it
-
-  } catch (err) {
-    _iterator.e(err);
-  } finally {
-    _iterator.f();
-  }
-
-  instance.events = _router2["default"].events;
-  coreMethodFields.forEach(function (field) {
-    instance[field] = function () {
-      return _router[field].apply(_router, arguments);
-    };
-  });
-  return instance;
-}
-
-/***/ }),
-
-/***/ "./node_modules/next/dist/client/with-router.js?64e2":
-/*!**********************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/client/with-router.js ***!
-  \**********************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js?f262");
-
-exports.__esModule = true;
-exports["default"] = withRouter;
-
-var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
-
-var _router = __webpack_require__(/*! ./router */ "./node_modules/next/dist/client/router.js?ff98");
-
-function withRouter(ComposedComponent) {
-  function WithRouterWrapper(props) {
-    return _react["default"].createElement(ComposedComponent, Object.assign({
-      router: (0, _router.useRouter)()
-    }, props));
-  }
-
-  WithRouterWrapper.getInitialProps = ComposedComponent.getInitialProps // This is needed to allow checking for custom getInitialProps in _app
-  ;
-  WithRouterWrapper.origGetInitialProps = ComposedComponent.origGetInitialProps;
-
-  if (true) {
-    var name = ComposedComponent.displayName || ComposedComponent.name || 'Unknown';
-    WithRouterWrapper.displayName = "withRouter(" + name + ")";
-  }
-
-  return WithRouterWrapper;
-}
-
-/***/ }),
-
-/***/ "./node_modules/next/dist/client/with-router.js?7111":
+/***/ "./node_modules/next/dist/client/with-router.js?44db":
 /*!******************************************************!*\
   !*** ./node_modules/next/dist/client/with-router.js ***!
   \******************************************************/
@@ -4626,7 +4586,7 @@ exports["default"] = withRouter;
 
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 
-var _router = __webpack_require__(/*! ./router */ "./node_modules/next/dist/client/router.js?d4b9");
+var _router = __webpack_require__(/*! ./router */ "./node_modules/next/dist/client/router.js?d3ea");
 
 function withRouter(ComposedComponent) {
   function WithRouterWrapper(props) {
@@ -4649,7 +4609,47 @@ function withRouter(ComposedComponent) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/head-manager-context.js?2f39":
+/***/ "./node_modules/next/dist/client/with-router.js?d856":
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/client/with-router.js ***!
+  \*******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js?7b6a");
+
+exports.__esModule = true;
+exports["default"] = withRouter;
+
+var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+
+var _router = __webpack_require__(/*! ./router */ "./node_modules/next/dist/client/router.js?8892");
+
+function withRouter(ComposedComponent) {
+  function WithRouterWrapper(props) {
+    return _react["default"].createElement(ComposedComponent, Object.assign({
+      router: (0, _router.useRouter)()
+    }, props));
+  }
+
+  WithRouterWrapper.getInitialProps = ComposedComponent.getInitialProps // This is needed to allow checking for custom getInitialProps in _app
+  ;
+  WithRouterWrapper.origGetInitialProps = ComposedComponent.origGetInitialProps;
+
+  if (true) {
+    var name = ComposedComponent.displayName || ComposedComponent.name || 'Unknown';
+    WithRouterWrapper.displayName = "withRouter(" + name + ")";
+  }
+
+  return WithRouterWrapper;
+}
+
+/***/ }),
+
+/***/ "./node_modules/next/dist/next-server/lib/head-manager-context.js?0848":
 /*!************************************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/head-manager-context.js ***!
   \************************************************************************/
@@ -4679,63 +4679,7 @@ exports.HeadManagerContext = React.createContext(null);
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/mitt.js?17ad":
-/*!************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/mitt.js ***!
-  \************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-/*
-MIT License
-
-Copyright (c) Jason Miller (https://jasonformat.com/)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-*/
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-
-function mitt() {
-  var all = Object.create(null);
-  return {
-    on: function on(type, handler) {
-      ;
-      (all[type] || (all[type] = [])).push(handler);
-    },
-    off: function off(type, handler) {
-      if (all[type]) {
-        // tslint:disable-next-line:no-bitwise
-        all[type].splice(all[type].indexOf(handler) >>> 0, 1);
-      }
-    },
-    emit: function emit(type) {
-      for (var _len = arguments.length, evts = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
-        evts[_key - 1] = arguments[_key];
-      }
-
-      // eslint-disable-next-line array-callback-return
-      ;
-      (all[type] || []).slice().map(function (handler) {
-        handler.apply(void 0, evts);
-      });
-    }
-  };
-}
-
-exports["default"] = mitt;
-
-/***/ }),
-
-/***/ "./node_modules/next/dist/next-server/lib/mitt.js?e267":
+/***/ "./node_modules/next/dist/next-server/lib/mitt.js?3caf":
 /*!********************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/mitt.js ***!
   \********************************************************/
@@ -4791,10 +4735,66 @@ exports["default"] = mitt;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router-context.js?688f":
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/router-context.js ***!
-  \**********************************************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/mitt.js?8935":
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/mitt.js ***!
+  \*********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+/*
+MIT License
+
+Copyright (c) Jason Miller (https://jasonformat.com/)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function mitt() {
+  var all = Object.create(null);
+  return {
+    on: function on(type, handler) {
+      ;
+      (all[type] || (all[type] = [])).push(handler);
+    },
+    off: function off(type, handler) {
+      if (all[type]) {
+        // tslint:disable-next-line:no-bitwise
+        all[type].splice(all[type].indexOf(handler) >>> 0, 1);
+      }
+    },
+    emit: function emit(type) {
+      for (var _len = arguments.length, evts = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+        evts[_key - 1] = arguments[_key];
+      }
+
+      // eslint-disable-next-line array-callback-return
+      ;
+      (all[type] || []).slice().map(function (handler) {
+        handler.apply(void 0, evts);
+      });
+    }
+  };
+}
+
+exports["default"] = mitt;
+
+/***/ }),
+
+/***/ "./node_modules/next/dist/next-server/lib/router-context.js?994d":
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/router-context.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4821,7 +4821,7 @@ exports.RouterContext = React.createContext(null);
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router-context.js?f44c":
+/***/ "./node_modules/next/dist/next-server/lib/router-context.js?b202":
 /*!******************************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/router-context.js ***!
   \******************************************************************/
@@ -4851,23 +4851,23 @@ exports.RouterContext = React.createContext(null);
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/router.js?e3ae":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/router/router.js ***!
-  \*********************************************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/router/router.js?7c87":
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/router/router.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js?40ce");
+var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js?50e3");
 
-var _slicedToArray = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "./node_modules/@babel/runtime/helpers/slicedToArray.js?61a1");
+var _slicedToArray = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "./node_modules/@babel/runtime/helpers/slicedToArray.js?deb5");
 
-var _classCallCheck = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "./node_modules/@babel/runtime/helpers/classCallCheck.js?2011");
+var _classCallCheck = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "./node_modules/@babel/runtime/helpers/classCallCheck.js?6ae0");
 
-var _createClass = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "./node_modules/@babel/runtime/helpers/createClass.js?b238");
+var _createClass = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "./node_modules/@babel/runtime/helpers/createClass.js?ac7f");
 
 var __importDefault = this && this.__importDefault || function (mod) {
   return mod && mod.__esModule ? mod : {
@@ -4881,15 +4881,15 @@ Object.defineProperty(exports, "__esModule", {
 
 var url_1 = __webpack_require__(/*! url */ "./node_modules/native-url/dist/index.js");
 
-var mitt_1 = __importDefault(__webpack_require__(/*! ../mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?17ad"));
+var mitt_1 = __importDefault(__webpack_require__(/*! ../mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?8935"));
 
-var utils_1 = __webpack_require__(/*! ../utils */ "./node_modules/next/dist/next-server/lib/utils.js?a2d5");
+var utils_1 = __webpack_require__(/*! ../utils */ "./node_modules/next/dist/next-server/lib/utils.js?b373");
 
-var is_dynamic_1 = __webpack_require__(/*! ./utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?7b1c");
+var is_dynamic_1 = __webpack_require__(/*! ./utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?e20e");
 
-var route_matcher_1 = __webpack_require__(/*! ./utils/route-matcher */ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?49e3");
+var route_matcher_1 = __webpack_require__(/*! ./utils/route-matcher */ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?149c");
 
-var route_regex_1 = __webpack_require__(/*! ./utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?bc52");
+var route_regex_1 = __webpack_require__(/*! ./utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?1d64");
 
 function addBasePath(path) {
   // variable is always a string
@@ -5389,7 +5389,7 @@ var Router = /*#__PURE__*/function () {
             __N_SSP = routeInfo.__N_SSP;
 
         if (true) {
-          var _require = __webpack_require__(/*! react-is */ "./node_modules/react-is/index.js?8c1f"),
+          var _require = __webpack_require__(/*! react-is */ "./node_modules/react-is/index.js?6a63"),
               isValidElementType = _require.isValidElementType;
 
           if (!isValidElementType(Component)) {
@@ -5650,7 +5650,7 @@ Router.events = mitt_1["default"]();
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/router.js?eab8":
+/***/ "./node_modules/next/dist/next-server/lib/router/router.js?f14e":
 /*!*****************************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/router/router.js ***!
   \*****************************************************************/
@@ -5680,15 +5680,15 @@ Object.defineProperty(exports, "__esModule", {
 
 var url_1 = __webpack_require__(/*! url */ "./node_modules/native-url/dist/index.js");
 
-var mitt_1 = __importDefault(__webpack_require__(/*! ../mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?e267"));
+var mitt_1 = __importDefault(__webpack_require__(/*! ../mitt */ "./node_modules/next/dist/next-server/lib/mitt.js?3caf"));
 
-var utils_1 = __webpack_require__(/*! ../utils */ "./node_modules/next/dist/next-server/lib/utils.js?68cd");
+var utils_1 = __webpack_require__(/*! ../utils */ "./node_modules/next/dist/next-server/lib/utils.js?8340");
 
-var is_dynamic_1 = __webpack_require__(/*! ./utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?043f");
+var is_dynamic_1 = __webpack_require__(/*! ./utils/is-dynamic */ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?1772");
 
-var route_matcher_1 = __webpack_require__(/*! ./utils/route-matcher */ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?b643");
+var route_matcher_1 = __webpack_require__(/*! ./utils/route-matcher */ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?f418");
 
-var route_regex_1 = __webpack_require__(/*! ./utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?8c9a");
+var route_regex_1 = __webpack_require__(/*! ./utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?633e");
 
 function addBasePath(path) {
   // variable is always a string
@@ -6449,7 +6449,7 @@ Router.events = mitt_1["default"]();
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?043f":
+/***/ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?1772":
 /*!***************************************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
   \***************************************************************************/
@@ -6473,10 +6473,10 @@ exports.isDynamicRoute = isDynamicRoute;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?7b1c":
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
-  \*******************************************************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js?e20e":
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6497,10 +6497,10 @@ exports.isDynamicRoute = isDynamicRoute;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?49e3":
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
-  \**********************************************************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?149c":
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6541,7 +6541,7 @@ exports.getRouteMatcher = getRouteMatcher;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?b643":
+/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js?f418":
 /*!******************************************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
   \******************************************************************************/
@@ -6585,10 +6585,10 @@ exports.getRouteMatcher = getRouteMatcher;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?8c9a":
-/*!****************************************************************************!*\
-  !*** ./node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
-  \****************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?1d64":
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6624,10 +6624,10 @@ exports.getRouteRegex = getRouteRegex;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?bc52":
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
-  \********************************************************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js?633e":
+/*!****************************************************************************!*\
+  !*** ./node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6690,7 +6690,7 @@ exports.setConfig = setConfig;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/utils.js?68cd":
+/***/ "./node_modules/next/dist/next-server/lib/utils.js?8340":
 /*!*********************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/utils.js ***!
   \*********************************************************/
@@ -6870,17 +6870,17 @@ exports.ST = exports.SP && typeof performance.mark === 'function' && typeof perf
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/next-server/lib/utils.js?a2d5":
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/utils.js ***!
-  \*************************************************************************************************/
+/***/ "./node_modules/next/dist/next-server/lib/utils.js?b373":
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/utils.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js?40ce");
+var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js?50e3");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -7246,9 +7246,9 @@ process.umask = function() { return 0; };
 /***/ }),
 
 /***/ "./node_modules/querystring-es3/decode.js":
-/*!****************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/querystring-es3/decode.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/querystring-es3/decode.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7342,9 +7342,9 @@ var isArray = Array.isArray || function (xs) {
 /***/ }),
 
 /***/ "./node_modules/querystring-es3/encode.js":
-/*!****************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/querystring-es3/encode.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/querystring-es3/encode.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7439,9 +7439,9 @@ var objectKeys = Object.keys || function (obj) {
 /***/ }),
 
 /***/ "./node_modules/querystring-es3/index.js":
-/*!***************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/querystring-es3/index.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/querystring-es3/index.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7477,10 +7477,10 @@ module.exports = (__webpack_require__(/*! dll-reference dll_2adc2403d89adc16ead0
 
 /***/ }),
 
-/***/ "./node_modules/react-is/cjs/react-is.development.js?7de4":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/react-is/cjs/react-is.development.js ***!
-  \***************************************************************************************************/
+/***/ "./node_modules/react-is/cjs/react-is.development.js?a8f5":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-is/cjs/react-is.development.js ***!
+  \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7716,10 +7716,10 @@ exports.isSuspense = isSuspense;
 
 /***/ }),
 
-/***/ "./node_modules/react-is/cjs/react-is.development.js?a8f5":
-/*!***********************************************************!*\
-  !*** ./node_modules/react-is/cjs/react-is.development.js ***!
-  \***********************************************************/
+/***/ "./node_modules/react-is/cjs/react-is.development.js?ee3a":
+/*!************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/react-is/cjs/react-is.development.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7972,10 +7972,10 @@ if (false) {} else {
 
 /***/ }),
 
-/***/ "./node_modules/react-is/index.js?8c1f":
-/*!********************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/react-is/index.js ***!
-  \********************************************************************************/
+/***/ "./node_modules/react-is/index.js?6a63":
+/*!*****************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/react-is/index.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7983,7 +7983,7 @@ if (false) {} else {
 
 
 if (false) {} else {
-  module.exports = __webpack_require__(/*! ./cjs/react-is.development.js */ "./node_modules/react-is/cjs/react-is.development.js?7de4");
+  module.exports = __webpack_require__(/*! ./cjs/react-is.development.js */ "./node_modules/react-is/cjs/react-is.development.js?ee3a");
 }
 
 
@@ -8000,10 +8000,10 @@ module.exports = (__webpack_require__(/*! dll-reference dll_2adc2403d89adc16ead0
 
 /***/ }),
 
-/***/ "./node_modules/regenerator-runtime/runtime.js?3f7c":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/regenerator-runtime/runtime.js ***!
-  \*********************************************************************************************/
+/***/ "./node_modules/regenerator-runtime/runtime.js?96cf":
+/*!*****************************************************!*\
+  !*** ./node_modules/regenerator-runtime/runtime.js ***!
+  \*****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8740,10 +8740,10 @@ try {
 
 /***/ }),
 
-/***/ "./node_modules/regenerator-runtime/runtime.js?96cf":
-/*!*****************************************************!*\
-  !*** ./node_modules/regenerator-runtime/runtime.js ***!
-  \*****************************************************/
+/***/ "./node_modules/regenerator-runtime/runtime.js?fc79":
+/*!******************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/regenerator-runtime/runtime.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./":
-/*!**********************************************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
-  \**********************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
+  \*******************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

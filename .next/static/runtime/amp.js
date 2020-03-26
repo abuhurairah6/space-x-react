@@ -30,9 +30,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "./node_modules/
 /***/ }),
 
 /***/ "./node_modules/next/dist/build/polyfills/fetch/index.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/build/polyfills/fetch/index.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/build/polyfills/fetch/index.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

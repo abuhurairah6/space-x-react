@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/polyfills.js"],{
 
 /***/ "./node_modules/@next/polyfill-nomodule/dist/polyfill-nomodule.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@next/polyfill-nomodule/dist/polyfill-nomodule.js ***!
-  \****************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@next/polyfill-nomodule/dist/polyfill-nomodule.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14,9 +14,9 @@
 /***/ }),
 
 /***/ "./node_modules/next/dist/client/polyfills.js":
-/*!********************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/client/polyfills.js ***!
-  \********************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/client/polyfills.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

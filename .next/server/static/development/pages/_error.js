@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js":
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \**************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -111,9 +111,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "./node_modules/next/dist/next-server/lib/amp-context.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/amp-context.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/amp-context.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -139,9 +139,9 @@ exports.AmpStateContext = React.createContext({});
 /***/ }),
 
 /***/ "./node_modules/next/dist/next-server/lib/amp.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/amp.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/amp.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -182,9 +182,9 @@ exports.useAmp = useAmp;
 /***/ }),
 
 /***/ "./node_modules/next/dist/next-server/lib/head-manager-context.js":
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/head-manager-context.js ***!
-  \****************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/head-manager-context.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -210,9 +210,9 @@ exports.HeadManagerContext = React.createContext(null);
 /***/ }),
 
 /***/ "./node_modules/next/dist/next-server/lib/head.js":
-/*!************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/head.js ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/head.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -383,9 +383,9 @@ exports.default = Head;
 /***/ }),
 
 /***/ "./node_modules/next/dist/next-server/lib/side-effect.js":
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/next-server/lib/side-effect.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/next-server/lib/side-effect.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -454,9 +454,9 @@ exports.default = () => {
 /***/ }),
 
 /***/ "./node_modules/next/dist/pages/_error.js":
-/*!****************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/next/dist/pages/_error.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/pages/_error.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -562,9 +562,9 @@ var styles = {
 /***/ }),
 
 /***/ "./node_modules/object-assign/index.js":
-/*!*************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/object-assign/index.js ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/object-assign/index.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -664,9 +664,9 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 /***/ }),
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
-/*!*******************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/prop-types/checkPropTypes.js ***!
-  \*******************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/prop-types/checkPropTypes.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -778,9 +778,9 @@ module.exports = checkPropTypes;
 /***/ }),
 
 /***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -802,9 +802,9 @@ module.exports = ReactPropTypesSecret;
 /***/ }),
 
 /***/ "./node_modules/react/cjs/react.development.js":
-/*!*********************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/react/cjs/react.development.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/react/cjs/react.development.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2726,9 +2726,9 @@ exports.version = ReactVersion;
 /***/ }),
 
 /***/ "./node_modules/react/index.js":
-/*!*****************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Desktop/space-x-react/node_modules/react/index.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************!*\
+  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/react/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

@@ -19,6 +19,11 @@
 				"id": 4,
 				"name": "ISS",
 				"description": "Mock rocket information ISS"
+		},
+		"Rover": {
+				"id": 5,
+				"name": "Rover",
+				"description": "Mock rocket information ISS"
 		}
 	}
 }
