@@ -1,4 +1,4 @@
-class Rocket extends React.Component {
+class RocketComponent extends React.Component {
 	render() {
 		const rockets = this.props.rockets;
 		const rocketsArr = [];
@@ -10,13 +10,11 @@ class Rocket extends React.Component {
 		return (
 			<section className="section">
 				<div className="container">
-					<div className="columns">
+					<div className="columns is-multiline c-gap-1">
 						{rocketsArr.map(rocket => (
-							<div className="column" key={rocket.id}>
-								<div className="notification c-hover">
-									{rocket.name}
-								</div>
-							</div>
+							<RocketHeader
+								rocket = {rocket}
+							/>
 						))}
 					</div>
 				</div>
@@ -25,4 +23,30 @@ class Rocket extends React.Component {
 	};
 };
 
-export default Rocket;
+function RocketHeader(props) {
+	return (
+		<div className="column is-half">
+			<div className="columns c-hover is-gapless">
+				<div className="column is-one-fifth" key={props.rocket.id}>
+					<figure className="image is-square">
+						<img class="" src="https://bulma.io/images/placeholders/128x128.png"></img>
+					</figure>
+				</div>
+				<div className="column">
+					<div className="notification c-full-height">
+						{props.rocket.name}<br/>
+						{props.rocket.description}<br/>
+					</div>
+				</div>
+			</div>
+		</div>
+	);
+};
+
+function RocketDetails(props) {
+	return (
+		<div/>
+	);
+};
+
+export default RocketComponent;

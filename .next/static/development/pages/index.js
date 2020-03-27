@@ -1,23 +1,23 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\index.js"],{
 
-/***/ "./component/Header.js":
+/***/ "./component/Footer.js":
 /*!*****************************!*\
-  !*** ./component/Header.js ***!
+  !*** ./component/Footer.js ***!
   \*****************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Header; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Footer; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\component\\Header.js";
+var _jsxFileName = "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\component\\Footer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-function Header(props) {
+function Footer(props) {
   return __jsx("section", {
-    className: "hero is-primary is-medium",
+    className: "hero is-dark",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -40,7 +40,74 @@ function Header(props) {
       lineNumber: 5,
       columnNumber: 5
     }
-  }, props.title)));
+  }, props.title), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }, props.subtitle, " ", __jsx("a", {
+    href: props.link,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 23
+    }
+  }, props.link))));
+}
+
+/***/ }),
+
+/***/ "./component/Header.js":
+/*!*****************************!*\
+  !*** ./component/Header.js ***!
+  \*****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Header; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\component\\Header.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+function Header(props) {
+  return __jsx("section", {
+    className: "hero is-dark is-medium",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3,
+      columnNumber: 3
+    }
+  }, __jsx("div", {
+    className: "hero-body has-text-centered",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4,
+      columnNumber: 4
+    }
+  }, __jsx("h1", {
+    className: "title",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5,
+      columnNumber: 5
+    }
+  }, props.title), __jsx("p", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }, props.subtitle)));
 }
 
 /***/ }),
@@ -74,18 +141,18 @@ function _createSuper(Derived) { return function () { var Super = Object(_babel_
 
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(Reflect.construct(Date, [], function () {})); return true; } catch (e) { return false; } }
 
-var Rocket = /*#__PURE__*/function (_React$Component) {
-  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(Rocket, _React$Component);
+var RocketComponent = /*#__PURE__*/function (_React$Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(RocketComponent, _React$Component);
 
-  var _super = _createSuper(Rocket);
+  var _super = _createSuper(RocketComponent);
 
-  function Rocket() {
-    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, Rocket);
+  function RocketComponent() {
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, RocketComponent);
 
     return _super.apply(this, arguments);
   }
 
-  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Rocket, [{
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(RocketComponent, [{
     key: "render",
     value: function render() {
       var _this = this;
@@ -116,7 +183,7 @@ var Rocket = /*#__PURE__*/function (_React$Component) {
           columnNumber: 5
         }
       }, __jsx("div", {
-        className: "columns",
+        className: "columns is-multiline c-gap-1",
         __self: this,
         __source: {
           fileName: _jsxFileName,
@@ -124,33 +191,160 @@ var Rocket = /*#__PURE__*/function (_React$Component) {
           columnNumber: 6
         }
       }, rocketsArr.map(function (rocket) {
-        return __jsx("div", {
-          className: "column",
-          key: rocket.id,
+        return __jsx(RocketHeader, {
+          rocket: rocket,
           __self: _this,
           __source: {
             fileName: _jsxFileName,
             lineNumber: 15,
             columnNumber: 8
           }
-        }, __jsx("div", {
-          className: "notification c-hover",
-          __self: _this,
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 16,
-            columnNumber: 9
-          }
-        }, rocket.name));
+        });
       }))));
     }
   }]);
 
-  return Rocket;
+  return RocketComponent;
 }(react__WEBPACK_IMPORTED_MODULE_5___default.a.Component);
 
 ;
-/* harmony default export */ __webpack_exports__["default"] = (Rocket);
+
+function RocketHeader(props) {
+  return __jsx("div", {
+    className: "column is-half",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28,
+      columnNumber: 3
+    }
+  }, __jsx("div", {
+    className: "columns c-hover is-gapless",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29,
+      columnNumber: 4
+    }
+  }, __jsx("div", {
+    className: "column is-one-fifth",
+    key: props.rocket.id,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30,
+      columnNumber: 5
+    }
+  }, __jsx("figure", {
+    className: "image is-square",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31,
+      columnNumber: 6
+    }
+  }, __jsx("img", {
+    "class": "",
+    src: "https://bulma.io/images/placeholders/128x128.png",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32,
+      columnNumber: 7
+    }
+  }))), __jsx("div", {
+    className: "column",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35,
+      columnNumber: 5
+    }
+  }, __jsx("div", {
+    className: "notification c-full-height",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36,
+      columnNumber: 6
+    }
+  }, props.rocket.name, __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 26
+    }
+  }), props.rocket.description, __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38,
+      columnNumber: 33
+    }
+  })))));
+}
+
+;
+
+function RocketDetails(props) {
+  return __jsx("div", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48,
+      columnNumber: 3
+    }
+  });
+}
+
+;
+/* harmony default export */ __webpack_exports__["default"] = (RocketComponent);
+
+/***/ }),
+
+/***/ "./component/SectionTitle.js":
+/*!***********************************!*\
+  !*** ./component/SectionTitle.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return SectionTitle; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\component\\SectionTitle.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+function SectionTitle(props) {
+  return __jsx("section", {
+    className: "section",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3,
+      columnNumber: 3
+    }
+  }, __jsx("div", {
+    className: "container",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4,
+      columnNumber: 4
+    }
+  }, __jsx("h1", {
+    className: "title has-text-centered",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5,
+      columnNumber: 5
+    }
+  }, props.title)));
+}
 
 /***/ }),
 
@@ -513,7 +707,7 @@ if (true) {
 
 exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(true);
 // Module
-exports.push([module.i, ":root{\r\n\t--trans-seconds: 1s;\r\n\t--trans-scale: 1.1;\r\n}\r\n\r\n.c-hover{\r\n\ttransition: var(--trans-seconds);\r\n}\r\n\r\n.c-hover:hover{\r\n\ttransform: scaleX(var(--trans-scale)) scaleY(var(--trans-scale));\r\n\tbackground-color: #90EE90;\r\n}", "",{"version":3,"sources":["custom-styles.css"],"names":[],"mappings":"AAAA;CACC,mBAAmB;CACnB,kBAAkB;AACnB;;AAEA;CACC,gCAAgC;AACjC;;AAEA;CACC,gEAAgE;CAChE,yBAAyB;AAC1B","file":"custom-styles.css","sourcesContent":[":root{\r\n\t--trans-seconds: 1s;\r\n\t--trans-scale: 1.1;\r\n}\r\n\r\n.c-hover{\r\n\ttransition: var(--trans-seconds);\r\n}\r\n\r\n.c-hover:hover{\r\n\ttransform: scaleX(var(--trans-scale)) scaleY(var(--trans-scale));\r\n\tbackground-color: #90EE90;\r\n}"]}]);
+exports.push([module.i, ":root{\r\n\t--trans-seconds: 1s;\r\n\t--trans-scale: 1.05;\r\n}\r\n\r\n.c-hover{\r\n\ttransition: var(--trans-seconds);\r\n\tborder-style: solid;\r\n\tborder-color: white;\r\n\tborder-width: 0.1rem;\r\n}\r\n\r\n.c-hover:hover{\r\n\ttransform: scaleX(var(--trans-scale)) scaleY(var(--trans-scale));\r\n\tborder-color: #90EE90;\r\n}\r\n\r\n.c-full-height{\r\n\theight: 100%;\r\n}\r\n\r\n.c-gap-1 .columns{\r\n\tmargin: 1rem;\r\n}", "",{"version":3,"sources":["custom-styles.css"],"names":[],"mappings":"AAAA;CACC,mBAAmB;CACnB,mBAAmB;AACpB;;AAEA;CACC,gCAAgC;CAChC,mBAAmB;CACnB,mBAAmB;CACnB,oBAAoB;AACrB;;AAEA;CACC,gEAAgE;CAChE,qBAAqB;AACtB;;AAEA;CACC,YAAY;AACb;;AAEA;CACC,YAAY;AACb","file":"custom-styles.css","sourcesContent":[":root{\r\n\t--trans-seconds: 1s;\r\n\t--trans-scale: 1.05;\r\n}\r\n\r\n.c-hover{\r\n\ttransition: var(--trans-seconds);\r\n\tborder-style: solid;\r\n\tborder-color: white;\r\n\tborder-width: 0.1rem;\r\n}\r\n\r\n.c-hover:hover{\r\n\ttransform: scaleX(var(--trans-scale)) scaleY(var(--trans-scale));\r\n\tborder-color: #90EE90;\r\n}\r\n\r\n.c-full-height{\r\n\theight: 100%;\r\n}\r\n\r\n.c-gap-1 .columns{\r\n\tmargin: 1rem;\r\n}"]}]);
 
 
 /***/ }),
@@ -1015,7 +1209,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _data_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../data.json */ "./data.json");
 var _data_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../data.json */ "./data.json", 1);
 /* harmony import */ var _component_Header_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../component/Header.js */ "./component/Header.js");
-/* harmony import */ var _component_Rocket_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../component/Rocket.js */ "./component/Rocket.js");
+/* harmony import */ var _component_Footer_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../component/Footer.js */ "./component/Footer.js");
+/* harmony import */ var _component_Rocket_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../component/Rocket.js */ "./component/Rocket.js");
+/* harmony import */ var _component_SectionTitle_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../component/SectionTitle.js */ "./component/SectionTitle.js");
 var _jsxFileName = "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -1023,33 +1219,48 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
+
+
 function Home() {
-  var item;
-
-  for (item in _data_json__WEBPACK_IMPORTED_MODULE_2__.rockets) {// console.log(data.rockets[item]);
-  }
-
-  return __jsx("div", {
+  return __jsx("body", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14,
+      lineNumber: 10,
       columnNumber: 3
     }
   }, __jsx(_component_Header_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
     title: "Space-X",
+    subtitle: "An interactive test design for space-x's rockets",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11,
+      columnNumber: 4
+    }
+  }), __jsx(_component_SectionTitle_js__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    title: "List of Rockets",
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15,
       columnNumber: 4
     }
-  }), __jsx(_component_Rocket_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  }), __jsx(_component_Rocket_js__WEBPACK_IMPORTED_MODULE_5__["default"], {
     rockets: _data_json__WEBPACK_IMPORTED_MODULE_2__.rockets,
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18,
+      columnNumber: 4
+    }
+  }), __jsx(_component_Footer_js__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    subtitle: "View source code here:",
+    link: "https://github.com/abuhurairah6/space-x-react",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21,
       columnNumber: 4
     }
   }));

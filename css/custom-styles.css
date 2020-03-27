@@ -1,13 +1,24 @@
 :root{
 	--trans-seconds: 1s;
-	--trans-scale: 1.1;
+	--trans-scale: 1.05;
 }
 
 .c-hover{
 	transition: var(--trans-seconds);
+	border-style: solid;
+	border-color: white;
+	border-width: 0.1rem;
 }
 
 .c-hover:hover{
 	transform: scaleX(var(--trans-scale)) scaleY(var(--trans-scale));
-	background-color: #90EE90;
+	border-color: #90EE90;
+}
+
+.c-full-height{
+	height: 100%;
+}
+
+.c-gap-1 .columns{
+	margin: 1rem;
 }
