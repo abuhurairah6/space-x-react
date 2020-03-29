@@ -3,10 +3,10 @@ export default function Header(props) {
 		<section className="hero is-dark is-medium">
 			<div className="hero-body has-text-centered">
 				<h1 className="title">
-					{props.title}
+					Space-X
 				</h1>
 				<p>
-					{props.subtitle}
+					An interactive test design for space-x's rockets
 				</p>
 			</div>
 		</section>

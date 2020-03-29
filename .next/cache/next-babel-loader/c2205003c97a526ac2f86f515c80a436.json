@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { Button } from '../node_modules/bulma/css/bulma.min.css';","map":{"version":3,"sources":["C:/Users/Abu Salleh/desktop/space-x-react/pages/_app.js"],"names":["Button"],"mappings":"AAAA,SAASA,MAAT,QAAuB,yCAAvB","sourcesContent":["import { Button } from '../node_modules/bulma/css/bulma.min.css';"]},"metadata":{},"sourceType":"module"}

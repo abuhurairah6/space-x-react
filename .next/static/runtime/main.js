@@ -1261,7 +1261,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\Abu Salleh\\documents\\github\\space-x-react\\.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\Abu Salleh\\documents\\GitHub\\space-x-react\\.next");
       return error;
     }
   };
@@ -3067,7 +3067,7 @@ if (!('finally' in Promise.prototype)) {
 
 var data = JSON.parse(document.getElementById('__NEXT_DATA__').textContent);
 window.__NEXT_DATA__ = data;
-var version = "9.3.1";
+var version = "9.3.2";
 exports.version = version;
 var props = data.props,
     err = data.err,
