@@ -1,14 +1,14 @@
 import { ApolloProvider } from '@apollo/react-hooks';
 import App from 'next/app';
 import '../node_modules/bulma/css/bulma.css';
-import '../css/custom-styles.css';
-import withApollo from '../util.apollo-client.js';
+import './custom-styles.css';
+import withApollo from '../util/apollo-client.js';
 
 class MyApp extends App {
 	render() {
-		const {Component, pageProps, client} = this.props;
+		const {Component, pageProps, apollo} = this.props;
 		return (
-			<ApolloProvider client={client}>
+			<ApolloProvider client={apollo}>
 				<Component {...pageProps} />
 			</ApolloProvider>
 		)

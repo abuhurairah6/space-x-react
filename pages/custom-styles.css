@@ -22,3 +22,11 @@
 .c-gap-1 .columns{
 	margin: 1rem;
 }
+
+.c-center {
+	margin: 0.75rem;
+}
+
+.c-margin {
+	margin: auto;
+}

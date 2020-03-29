@@ -1,4 +1,6 @@
-import Link from 'next/link'
+import Link from 'next/link';
+import gql from 'graphql-tag';
+import { useQuery } from '@apollo/react-hooks';
 
 class RocketComponent extends React.Component {
 	render() {
@@ -27,7 +29,7 @@ class RocketComponent extends React.Component {
 function RocketHeader(props) {
 	return (
 		<div className="column is-half">
-			<Link href={{ pathname: "/rocket", query: {data: JSON.stringify(props.rocket)} }} as={`/rocket/${props.rocket.name}`}>
+			<Link href={{ pathname: "/rocket", query: {data: props.rocket.id} }} as={`/rocket/${props.rocket.name}`}>
 				<div className="columns c-hover is-gapless">
 					<div className="column is-one-fifth" key={props.rocket.id}>
 						<figure className="image is-square">
@@ -43,12 +45,6 @@ function RocketHeader(props) {
 				</div>
 			</Link>
 		</div>
-	);
-};
-
-function RocketDetails(props) {
-	return (
-		<div/>
 	);
 };
 
