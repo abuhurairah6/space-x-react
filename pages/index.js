@@ -1,4 +1,3 @@
-import data2 from '../data.json';
 import Layout from '../component/Layout.js';
 import Rocket from '../component/Rocket.js';
 import SectionTitle from '../component/SectionTitle.js';
