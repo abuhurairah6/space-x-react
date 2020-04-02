@@ -88,9 +88,9 @@ var dll_2adc2403d89adc16ead0 =
 /******/ ({
 
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Abu Salleh/Documents/GitHub/space-x-react/node_modules/next/dist/build/polyfills/object-assign.js ***!
-  \******************************************************************************************************************/
+/*!*****************************************************************!*\
+  !*** ./node_modules/next/dist/build/polyfills/object-assign.js ***!
+  \*****************************************************************/
 /*! no static exports found */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {

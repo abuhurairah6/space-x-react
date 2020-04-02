@@ -1,29 +1,44 @@
 import Link from 'next/link';
+import Loading from '../component/Loading.js';
+import SectionTitle from '../component/SectionTitle.js';
 import gql from 'graphql-tag';
 import { useQuery } from '@apollo/react-hooks';
 
-class RocketComponent extends React.Component {
-	render() {
-		const rockets = this.props.rockets;
-		const rocketsArr = [];
-		for (let key in rockets){
-			rocketsArr.push(rockets[key]);
-		};
+function RocketComponent() {
+	const GET_ROCKETS = gql`
+		{
+			rockets {
+				id
+				name
+			}
+		}
+	`;
+	const { loading, error, data} = useQuery(GET_ROCKETS);
 
-		return (
-			<section className="section">
-				<div className="container">
-					<div className="columns is-multiline c-gap-1">
-						{rocketsArr.map(rocket => (
-							<RocketHeader
-								rocket = {rocket}
-							/>
-						))}
-					</div>
-				</div>
-			</section>
-		);
+	if (loading) return <Loading />	;
+
+	const rockets = data.rockets;
+	const rocketsArr = [];
+	for (let key in rockets){
+		rocketsArr.push(rockets[key]);
 	};
+
+	return (
+		<section className="section">
+			<SectionTitle
+				title="List of Rockets"
+			/>
+			<div className="container">
+				<div className="columns is-multiline c-gap-1">
+					{rocketsArr.map(rocket => (
+						<RocketHeader
+							rocket = {rocket}
+						/>
+					))}
+				</div>
+			</div>
+		</section>
+	);
 };
 
 function RocketHeader(props) {

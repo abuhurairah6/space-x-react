@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Layout from '../component/Layout.js';
 import Loading from '../component/Loading.js';
 import gql from 'graphql-tag';
@@ -50,7 +51,30 @@ function RocketDetails(props) {
 	if (loading) return <Loading />	;
 
 	return (
-		<p>{data.rocket.name}</p>
+		<div className="column">
+			<div className="columns is-gapless">
+				<div className="column is-one-fifth" key={data.rocket.id}>
+					<figure className="image is-square">
+						<img class="" src="https://bulma.io/images/placeholders/128x128.png"></img>
+					</figure>
+				</div>
+				<div className="column">
+					<div className="notification c-full-height">
+						{data.rocket.name}<br/>
+						{data.rocket.active}<br/>
+						{data.rocket.company}<br/>
+						{data.rocket.country}<br/>
+						{data.rocket.stages}<br/>
+						{data.rocket.success_rate_pct}<br/>
+						{data.rocket.cost_per_launch}<br/>
+						{data.rocket.description}<br/>
+					</div>
+				</div>
+			</div>
+				<Link href="/">
+					Back
+				</Link>
+		</div>
 	);
 };
 
